@@ -1,6 +1,5 @@
 ##BEM-VINDO <br>
-Olá, eu sou o Junior Krigger, entusiasta de tecnologia e futuro desenvolvedor Full stack!
-
+Olá, eu sou o Junior Krigger, entusiasta de tecnologia.
 <div align="center">
   <a href="https://github.com/juniorkrigger?tab=repositories">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=juniorkrigger&show_icons=true&theme=dark"/> 
